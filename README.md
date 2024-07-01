@@ -1,9 +1,11 @@
 # Maverick Storm 3 BeamWash-2
 
+### Note: This software version is specifically ONLY for the Maverick Storm 3 BeamWash-2 or the Maverick Storm 3 BeamWash with the upgrade ring kit.
+
 ## Software Versions
 
-[V1.240514 - Maverick Storm 3 BeamWash-2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/b3710967c7b7851c6385f72f5f7f50f918c6c271/Firmware/V1.240514.zip)
-- Changed product name in the software to STORM3BEAMWASH-2
+[V1.240514 - Maverick Storm 3 BeamWash-2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/f5fcdace6def1768f758b755475c8147802676b6/Firmware/V1.240514.zip)
+- Released software version
 
 &nbsp;
 
