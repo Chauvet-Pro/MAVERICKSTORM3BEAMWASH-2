@@ -4,6 +4,9 @@
 
 ## Software Versions
 
+[V1.240603 - Maverick Storm 3 BeamWash](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/b5cdc30dbf595b2902026caff481ceb7b30a6029/Firmware/V1.240603.zip)
+- Fixed RDM issue of PXL mode not showing the correct channel count in RDM
+
 [V1.240514 - Maverick Storm 3 BeamWash-2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/f5fcdace6def1768f758b755475c8147802676b6/Firmware/V1.240514.zip)
 - Released software version
 
