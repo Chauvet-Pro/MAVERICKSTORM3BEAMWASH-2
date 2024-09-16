@@ -4,6 +4,9 @@
 
 ## Software Versions
 
+[V1.240603 - Maverick Storm 3 BeamWash-2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/02a8a9f0d00a6df0e94cdcef6e3f1f0caec565a6/Firmware/V1.240603.zip)
+- Fixed the zoom linking function in the control channel
+
 [V1.240514 - Maverick Storm 3 BeamWash-2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/f5fcdace6def1768f758b755475c8147802676b6/Firmware/V1.240514.zip)
 - Released software version
 
