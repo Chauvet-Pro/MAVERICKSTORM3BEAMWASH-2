@@ -1,6 +1,6 @@
 # Maverick Storm 3 BeamWash-2
 
-### Note: This software version is specifically ONLY for the Maverick Storm 3 BeamWash-2 or the Maverick Storm 3 BeamWash with the upgrade ring kit.
+### Note: These software updates are specifically ONLY for the Maverick Storm 3 BeamWash-2 or the Maverick Storm 3 BeamWash with the upgrade ring kit.
 
 ## Software Versions
 
