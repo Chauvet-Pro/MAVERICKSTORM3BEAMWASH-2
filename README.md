@@ -4,6 +4,9 @@
 
 ## Software Versions
 
+[V1.241128 - Maverick Storm 3 BeamWash-2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/d5f6b233acc081399f24b15482b1cba1d3c37021/Firmware/V1.241128.zip)
+- Added TV25 and TV35 fan modes
+
 [V1.240514 - Maverick Storm 3 BeamWash-2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/f5fcdace6def1768f758b755475c8147802676b6/Firmware/V1.240514.zip)
 - Released software version
 
