@@ -4,6 +4,11 @@
 
 ## Software Versions
 
+[V1.250403 - Maverick Storm 3 BeamWash - 2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/02d7e775b14dab8d6a05881c057fe8113052fe1b/Firmware/V1.250403.zip)
+- Fixed RDM failures
+- Fixed the bug that during software update, some LED will not turn off
+- Fixed the bug that there is CPU error every now and then while there is no fault in the fixture
+
 [V1.241128 - Maverick Storm 3 BeamWash-2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/d5f6b233acc081399f24b15482b1cba1d3c37021/Firmware/V1.241128.zip)
 - Added TV25 and TV35 fan modes
 
