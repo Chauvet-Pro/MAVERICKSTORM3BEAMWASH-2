@@ -5,7 +5,7 @@
 ## Software Versions
 
 [V1.250825 - Maverick Storm 3 BeamWash - 2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/346e77f9777d7511a52acd4b4f3859863c187b33/Firmware/V1.250825.zip)
--Fixed tilt motor shaking issue. Does not affect functionality.
+- Fixed tilt motor shaking issue. Does not affect functionality.
 
 [V1.250403 - Maverick Storm 3 BeamWash - 2](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH-2/blob/02d7e775b14dab8d6a05881c057fe8113052fe1b/Firmware/V1.250403.zip)
 - Fixed RDM failures
